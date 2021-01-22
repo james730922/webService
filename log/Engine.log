@@ -1,0 +1,499 @@
+2021-01-20T16:45:26.896+0800	[34mINFO[0m	[Engine] Environment Loaded
+2021-01-20T16:45:26.896+0800	[34mINFO[0m	[CacheDb] Connecting to Cache Service -> 127.0.0.1:6379
+2021-01-20T16:45:26.899+0800	[34mINFO[0m	[Engine] Registered System: sample, *Sample.System
+2021-01-20T16:45:26.899+0800	[34mINFO[0m	[Engine] Serving HTTP(:8080) in 3ms
+2021-01-20T16:45:41.553+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.553+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.555+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.555+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.555+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.555+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.556+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.556+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.557+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.557+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.558+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.558+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.560+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.560+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.561+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.561+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.562+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.562+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.563+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.563+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.564+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.564+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.566+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.566+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.568+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.568+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.569+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.569+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.569+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.570+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.570+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.570+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.571+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.572+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.573+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.573+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.574+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.574+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.574+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.574+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.575+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.575+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.576+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.576+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.577+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.577+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.578+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.578+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.579+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.579+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.579+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.579+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.580+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.580+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.581+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.581+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.582+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.583+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.584+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.584+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.585+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.585+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.586+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.586+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.587+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.588+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.589+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.589+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.589+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.589+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.590+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.590+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.591+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.591+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.594+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.594+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.596+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.596+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.597+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.597+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.600+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.600+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.601+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.601+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.601+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.601+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.602+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.602+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.603+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.603+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.605+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.605+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.607+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.607+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.608+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.608+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.610+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.610+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.611+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.611+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.612+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.612+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.613+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.613+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.613+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.613+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.614+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.614+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.615+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.615+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.615+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.615+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.616+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.616+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.617+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.617+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.618+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.618+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:45:41.618+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:45:41.618+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.489+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.489+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.492+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.493+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.494+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.494+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.495+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.495+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.496+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.496+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.497+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.497+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.500+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.500+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.501+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.501+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.502+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.502+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.503+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.503+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.503+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.503+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.504+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.504+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.505+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.505+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.505+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.505+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.506+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.506+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.507+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.507+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.507+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.507+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.508+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.508+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.511+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.511+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.513+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.513+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.514+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.515+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.517+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.517+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.519+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.519+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.519+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.519+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.520+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.520+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.521+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.521+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.522+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.522+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.522+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.522+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.523+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.523+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.524+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.524+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.525+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.525+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.525+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.525+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.526+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.526+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.527+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.527+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.527+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.527+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.528+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.528+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.529+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.529+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.529+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.529+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.530+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.531+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.537+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.537+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.540+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.540+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.541+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.541+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.543+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.543+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.544+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.544+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.545+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.545+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.546+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.546+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.547+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.547+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.548+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.548+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.549+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.549+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.550+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.550+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.550+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.550+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.551+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.551+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.552+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.552+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.552+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.552+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.553+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.553+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.554+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.554+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.555+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.555+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.556+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.557+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.559+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.559+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:50:25.559+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:50:25.559+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.973+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.974+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.975+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.975+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.975+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.975+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.976+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.976+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.976+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.976+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.977+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.977+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.977+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.977+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.978+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.978+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.979+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.979+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.979+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.979+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.980+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.980+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.980+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.980+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.981+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.981+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.981+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.981+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.982+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.982+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.982+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.982+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.983+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.983+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.984+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.984+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.984+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.984+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.985+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.985+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.986+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.986+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.987+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.987+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.988+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.988+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.989+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.989+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.992+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.992+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.994+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.994+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.995+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.995+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.997+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.997+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.998+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.998+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:31.999+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:31.999+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.000+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.000+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.002+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.002+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.004+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.004+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.005+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.005+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.006+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.006+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.006+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.006+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.007+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.007+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.008+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.008+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.012+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.012+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.014+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.014+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.019+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.019+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.021+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.021+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.022+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.022+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.023+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.023+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.024+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.024+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.025+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.025+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.026+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.026+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.026+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.026+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.027+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.027+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.028+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.028+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.029+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.029+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.030+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.030+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.031+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.031+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.032+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.032+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.034+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.034+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.036+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.036+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.037+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.037+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.039+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.039+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.041+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.041+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:51:32.043+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:51:32.043+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.273+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.274+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.274+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.274+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.275+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.275+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.276+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.276+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.276+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.276+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.277+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.277+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.277+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.277+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.278+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.278+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.278+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.278+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.279+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.279+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.279+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.279+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.280+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.280+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.280+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.280+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.281+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.281+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.281+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.281+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.282+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.282+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.282+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.282+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.283+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.283+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.284+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.284+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.284+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.284+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.285+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.285+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.285+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.285+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.286+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.286+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.287+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.287+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.287+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.287+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.288+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.288+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.289+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.289+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.289+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.289+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.290+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.290+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.291+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.291+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.292+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.293+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.294+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.294+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.295+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.295+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.295+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.295+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.296+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.296+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.297+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.298+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.299+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.299+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.300+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.300+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.301+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.301+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.302+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.302+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.303+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.303+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.304+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.304+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.305+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.305+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.305+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.306+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.306+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.306+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.307+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.307+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.307+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.308+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.308+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.308+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.309+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.309+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.310+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.310+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.310+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.310+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.311+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.311+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.312+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.312+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.313+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.313+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.314+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.314+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.315+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.315+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.315+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.315+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.316+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.316+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.318+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.318+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-20T16:52:12.319+0800	[34mINFO[0m	[HttpCommand] cmdId : sample, cmdName : samplefunc
+2021-01-20T16:52:12.319+0800	[34mINFO[0m	[SampleSystem] This is sample func
+2021-01-22T14:08:06.324+0800	[34mINFO[0m	[Engine] Environment Loaded
+2021-01-22T14:08:06.324+0800	[34mINFO[0m	[CacheDb] Connecting to Cache Service -> :0
+2021-01-22T14:08:06.325+0800	[31mERROR[0m	[CacheDb] Try To Connect CacheUtils Database Failed -> (dial tcp :0: connect: can't assign requested address)
+2021-01-22T14:08:06.325+0800	[34mINFO[0m	[Engine] Registered System: sample, *Sample.System
+2021-01-22T14:08:06.325+0800	[34mINFO[0m	[Engine] Serving HTTP(:0) in 1ms
+2021-01-22T14:10:47.496+0800	[33mWARN[0m	[Engine] Caught Signal(002)
+2021-01-22T14:10:47.496+0800	[33mWARN[0m	[Engine] Shutdown Server
+2021-01-22T14:10:47.496+0800	[33mWARN[0m	[Engine] Stop Serving (http: Server closed)
+2021-01-22T14:10:49.831+0800	[34mINFO[0m	[Engine] Environment Loaded
+2021-01-22T14:10:49.831+0800	[34mINFO[0m	[CacheDb] Connecting to Cache Service -> 127.0.0.1:6379
+2021-01-22T14:10:49.832+0800	[34mINFO[0m	[Engine] Registered System: sample, *Sample.System
+2021-01-22T14:10:49.832+0800	[34mINFO[0m	[Engine] Serving HTTP(:8080) in 1ms
+2021-01-22T14:10:53.235+0800	[33mWARN[0m	[Engine] Caught Signal(002)
+2021-01-22T14:10:53.235+0800	[33mWARN[0m	[Engine] Shutdown Server
+2021-01-22T14:10:53.235+0800	[33mWARN[0m	[Engine] Stop Serving (http: Server closed)
